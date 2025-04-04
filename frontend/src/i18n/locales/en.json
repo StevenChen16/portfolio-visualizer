@@ -1,0 +1,56 @@
+{
+  "appTitle": "Portfolio Visualizer",
+  "footer": {
+    "createdBy": "Created by"
+  },
+  "header": {
+    "title": "Portfolio Visualizer"
+  },
+  "addStock": "Add Stock",
+  "portfolioTable": {
+    "title": "Portfolio",
+    "symbol": "Symbol",
+    "name": "Name",
+    "quantity": "Quantity",
+    "buyDate": "Buy Date",
+    "buyPrice": "Buy Price",
+    "currentPrice": "Current Price",
+    "currentValue": "Current Value",
+    "profit": "Profit",
+    "profitPercentage": "Profit %",
+    "actions": "Actions",
+    "remove": "Remove",
+    "calculate": "Calculate Portfolio"
+  },
+  "stockSearch": {
+    "placeholder": "Enter stock symbol or name",
+    "quantity": "Quantity",
+    "buyDate": "Buy Date",
+    "buyPrice": "Buy Price",
+    "add": "Add to Portfolio"
+  },
+  "charts": {
+    "portfolioValue": "Portfolio Value Chart",
+    "value": "Value"
+  },
+  "indicators": {
+    "title": "Portfolio Analysis Indicators",
+    "returnIndicators": "Return Indicators",
+    "riskIndicators": "Risk Indicators",
+    "portfolioAnalysis": "Portfolio Analysis",
+    "winLossAnalysis": "Win/Loss Analysis",
+    "rollingAnalysis": "Rolling Analysis",
+    "drawdownAnalysis": "Drawdown Analysis",
+    "alphaBetaAnalysis": "Alpha/Beta Analysis",
+    "diversificationAnalysis": "Diversification Analysis",
+    "stockWeights": "Stock Weights",
+    "viewDetailedDrawdown": "View Detailed Drawdown Metrics",
+    "noReturnIndicators": "No return indicators available",
+    "noRiskIndicators": "No risk indicators available",
+    "noPortfolioAnalysis": "No portfolio analysis available"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  }
+}

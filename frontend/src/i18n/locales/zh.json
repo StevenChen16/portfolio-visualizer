@@ -1,0 +1,56 @@
+{
+  "appTitle": "投资组合可视化工具",
+  "footer": {
+    "createdBy": "由此创建"
+  },
+  "header": {
+    "title": "投资组合可视化工具"
+  },
+  "addStock": "添加股票",
+  "portfolioTable": {
+    "title": "投资组合",
+    "symbol": "代码",
+    "name": "名称",
+    "quantity": "数量",
+    "buyDate": "买入日期",
+    "buyPrice": "买入价格",
+    "currentPrice": "当前价格",
+    "currentValue": "当前价值",
+    "profit": "盈亏",
+    "profitPercentage": "盈亏比例",
+    "actions": "操作",
+    "remove": "删除",
+    "calculate": "计算投资组合"
+  },
+  "stockSearch": {
+    "placeholder": "输入股票代码或名称",
+    "quantity": "数量",
+    "buyDate": "买入日期",
+    "buyPrice": "买入价格",
+    "add": "添加到投资组合"
+  },
+  "charts": {
+    "portfolioValue": "投资组合价值走势",
+    "value": "价值"
+  },
+  "indicators": {
+    "title": "投资组合分析指标",
+    "returnIndicators": "收益指标",
+    "riskIndicators": "风险指标",
+    "portfolioAnalysis": "组合分析",
+    "winLossAnalysis": "胜率/败率分析",
+    "rollingAnalysis": "滚动分析",
+    "drawdownAnalysis": "详细回撤分析",
+    "alphaBetaAnalysis": "阿尔法/贝塔分析",
+    "diversificationAnalysis": "多元化分析",
+    "stockWeights": "股票权重",
+    "viewDetailedDrawdown": "查看详细回撤指标",
+    "noReturnIndicators": "没有可用的收益指标",
+    "noRiskIndicators": "没有可用的风险指标",
+    "noPortfolioAnalysis": "没有可用的组合分析"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  }
+}
